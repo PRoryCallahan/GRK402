@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prayers on GRK 402</title>
+    <link>http://patrickrcallahan.com/GRK402/prayers/</link>
+    <description>Recent content in Prayers on GRK 402</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://patrickrcallahan.com/GRK402/prayers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01. Sign of the Cross</title>
+      <link>http://patrickrcallahan.com/GRK402/prayers/signumcrucis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://patrickrcallahan.com/GRK402/prayers/signumcrucis/</guid>
+      <description>εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἀγίου Πνεύματος.</description>
+    </item>
+    
+    <item>
+      <title>02. Our Father</title>
+      <link>http://patrickrcallahan.com/GRK402/prayers/pater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://patrickrcallahan.com/GRK402/prayers/pater/</guid>
+      <description> Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς ἁγιασθήτω τό ὄνομά σου, ἐλθέτω ἡ βασιλεία σου, γενηθήτω τὸ θέλημά σου, ὡς ἐν οὐρανῷ καί ἐπί τῆς γῆς. Τόν ἄρτον ἡμῶν τόν ἐπιούσιον δός ἡμῖν σήμερον· καί ἄφες ἡμῖν τά ὀφειλήματα ἡμῶν, ὡς καί ἡμεῖς ἀφίεμεν τοῖς ὀφειλέταις ἡμῶν· καί μή εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλά ῥῦσαι ἡμᾶς ἀπὸ τοῦ πoνηροῦ.  </description>
+    </item>
+    
+    <item>
+      <title>03. Hail Mary</title>
+      <link>http://patrickrcallahan.com/GRK402/prayers/ave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://patrickrcallahan.com/GRK402/prayers/ave/</guid>
+      <description> Θεοτόκε Παρθένε, χαῖρε,
+κεχαριτωμένη Μαρία,
+ὁ Κύριος μετὰ σοῦ εὐλογημένη σὺ ἐν γυναιξί,
+καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου,
+ὅτι Σωτήρα ἔτεκες τῶν ψυχῶν ἡμῶν </description>
+    </item>
+    
+  </channel>
+</rss>
